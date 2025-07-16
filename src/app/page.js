@@ -73,6 +73,12 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi illo
+          quasi neque? Praesentium possimus laudantium corrupti minima. Animi
+          labore delectus dolorum corrupti placeat cupiditate mollitia. Nobis
+          nemo quaerat quibusdam esse?
+        </p>
       </footer>
     </div>
   );
